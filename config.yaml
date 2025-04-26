@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Vincentqyw"
+user_name: "IFF-0303"
 repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
@@ -22,18 +22,32 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "Coronary Imaging Analysis":
+        filters: ["coronary", "coronary artery", "CCTA", "CTA",
+                  "coronary angiography", "x-ray angiography",
+                  "IVUS", "intravascular ultrasound", "OCT",
+                  "segmentation", "detection", "quantification",
+                  "reconstruction", "registration"]
+
+    "LLM Disease Prediction":
+        filters: ["large language model", "LLM", "GPT", "Llama",
+                  "MedGPT", "BioGPT", "Health-LLM",
+                  "disease prediction", "diagnosis", "prognosis",
+                  "risk prediction", "EHR", "EMR",
+                  "electronic health record", "clinical note"]
+
+    "Multimodal Disease Prediction":
+        filters: ["multimodal", "multi-modal", "cross-modal",
+                  "vision-language", "fusion",
+                  "disease prediction", "diagnosis", "risk prediction",
+                  "interpretability", "explainable AI", "explanation",
+                  "evidence-guided", "saliency"]
+
+    "Medical Image Restoration":
+        filters: ["medical image", "inpainting", "image inpainting",
+                  "image completion", "restoration",
+                  "artifact removal", "artifact correction",
+                  "denoising", "super-resolution",
+                  "diffusion", "diffusion model", "DDPM",
+                  "Stable Diffusion", "GAN", "masked autoencoder"]
+
