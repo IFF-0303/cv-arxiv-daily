@@ -4628,6 +4628,66 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+## Coronary Imaging Analysis
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Josephson anomalous vortices**|Dan Crawford et.al.|[2504.17779](http://arxiv.org/abs/2504.17779)|null|
+|**2025-04-24**|**First study of neutrino angle reconstruction using quasielastic-like interactions in MicroBooNE**|MicroBooNE collaboration et.al.|[2504.17758](http://arxiv.org/abs/2504.17758)|null|
+|**2025-04-24**|**Robotic Task Ambiguity Resolution via Natural Language Interaction**|Eugenio Chisari et.al.|[2504.17748](http://arxiv.org/abs/2504.17748)|null|
+|**2025-04-24**|**Nearby open clusters with tidal features: golden sample selection and 3D structure**|Ming Xu et.al.|[2504.17744](http://arxiv.org/abs/2504.17744)|null|
+|**2025-04-24**|**Multi-messenger standard-siren cosmology for third-generation gravitational-wave detectors: Considering observations of gamma-ray bursts and kilonovae**|Tao Han et.al.|[2504.17741](http://arxiv.org/abs/2504.17741)|null|
+|**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739](http://arxiv.org/abs/2504.17739)|null|
+|**2025-04-24**|**Fuzzy clustering and community detection: an integrated approach**|Domenico Cangemi et.al.|[2504.17733](http://arxiv.org/abs/2504.17733)|null|
+|**2025-04-24**|**CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**|Shucheng Gong et.al.|[2504.17728](http://arxiv.org/abs/2504.17728)|null|
+|**2025-04-24**|**Unsupervised EEG-based decoding of absolute auditory attention with canonical correlation analysis**|Nicolas Heintz et.al.|[2504.17724](http://arxiv.org/abs/2504.17724)|null|
+|**2025-04-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al.|[2504.17721](http://arxiv.org/abs/2504.17721)|null|
+
+## LLM Disease Prediction
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**The Sparse Frontier: Sparse Attention Trade-offs in Transformer LLMs**|Piotr Nawrot et.al.|[2504.17768](http://arxiv.org/abs/2504.17768)|null|
+|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-04-24**|**Conversational Assistants to support Heart Failure Patients: comparing a Neurosymbolic Architecture with ChatGPT**|Anuja Tayal et.al.|[2504.17753](http://arxiv.org/abs/2504.17753)|null|
+|**2025-04-24**|**Towards Robust LLMs: an Adversarial Robustness Measurement Framework**|Natan Levy et.al.|[2504.17723](http://arxiv.org/abs/2504.17723)|null|
+|**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720](http://arxiv.org/abs/2504.17720)|null|
+|**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717](http://arxiv.org/abs/2504.17717)|null|
+|**2025-04-24**|**Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation**|Stefan Jonas et.al.|[2504.17709](http://arxiv.org/abs/2504.17709)|null|
+|**2025-04-24**|**Ensemble Bayesian Inference: Leveraging Small Language Models to Achieve LLM-level Accuracy in Profile Matching Tasks**|Haru-Tada Sato et.al.|[2504.17685](http://arxiv.org/abs/2504.17685)|null|
+
+## Multimodal Disease Prediction
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-04-24**|**On canonical differential equations for Calabi-Yau multi-scale Feynman integrals**|Sara Maggio et.al.|[2504.17757](http://arxiv.org/abs/2504.17757)|null|
+|**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751](http://arxiv.org/abs/2504.17751)|null|
+|**2025-04-24**|**Interpretable Early Detection of Parkinson's Disease through Speech Analysis**|Lorenzo Simone et.al.|[2504.17739](http://arxiv.org/abs/2504.17739)|null|
+|**2025-04-24**|**Early Detection of Multidrug Resistance Using Multivariate Time Series Analysis and Interpretable Patient-Similarity Representations**|Óscar Escudero-Arnanz et.al.|[2504.17717](http://arxiv.org/abs/2504.17717)|null|
+|**2025-04-24**|**Plasma State Monitoring and Disruption Characterization using Multimodal VAEs**|Yoeri Poels et.al.|[2504.17710](http://arxiv.org/abs/2504.17710)|null|
+|**2025-04-24**|**Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation**|Stefan Jonas et.al.|[2504.17709](http://arxiv.org/abs/2504.17709)|null|
+|**2025-04-24**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699](http://arxiv.org/abs/2504.17699)|null|
+|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
+
+## Medical Image Restoration
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**LiDPM: Rethinking Point Diffusion for Lidar Scene Completion**|Tetiana Martyniuk et.al.|[2504.17791](http://arxiv.org/abs/2504.17791)|null|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Thermal Product Formula for Shear Modes**|Jyotirmoy Bhattacharya et.al.|[2504.17781](http://arxiv.org/abs/2504.17781)|null|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**Step1X-Edit: A Practical Framework for General Image Editing**|Shiyu Liu et.al.|[2504.17761](http://arxiv.org/abs/2504.17761)|null|
+|**2025-04-24**|**Asymptotic attraction with algebraic rates toward fronts of dispersive-diffusive Burgers equations**|Milena Stanislavova et.al.|[2504.17745](http://arxiv.org/abs/2504.17745)|null|
+|**2025-04-24**|**DPMambaIR:All-in-One Image Restoration via Degradation-Aware Prompt State Space Model**|Zhanwen Liu et.al.|[2504.17732](http://arxiv.org/abs/2504.17732)|null|
+|**2025-04-24**|**Generative Fields: Uncovering Hierarchical Feature Control for StyleGAN via Inverted Receptive Fields**|Zhuo He et.al.|[2504.17712](http://arxiv.org/abs/2504.17712)|null|
+|**2025-04-24**|**Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning**|Nikola Janjušević et.al.|[2504.17698](http://arxiv.org/abs/2504.17698)|null|
+|**2025-04-24**|**Time-reversed Stochastic Inflation**|Baptiste Blachier et.al.|[2504.17680](http://arxiv.org/abs/2504.17680)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
