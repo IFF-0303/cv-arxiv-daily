@@ -1,4 +1,4 @@
-## Updated on 2025.05.12
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -922,7 +922,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## SFM
 
@@ -1314,7 +1314,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2450,7 +2450,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2750,7 +2750,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3074,7 +3074,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## NeRF
 
@@ -4650,12 +4650,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Coronary Imaging Analysis
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**UWAV: Uncertainty-weighted Weakly-supervised Audio-Visual Video Parsing**|Yung-Hsuan Lai et.al.|[2505.09615](http://arxiv.org/abs/2505.09615)|null|
+|**2025-05-14**|**Exchange-driven giant magnetoelastic coupling in Sr $_4$Ru$_3$O$_{10}$**|Carolina A. Marques et.al.|[2505.09611](http://arxiv.org/abs/2505.09611)|null|
+|**2025-05-14**|**The Niche Connectivity Paradox: Multichrome Contagions Overcome Vaccine Hesitancy more effectively than Monochromacy**|Ho-Chun Herbert Chang et.al.|[2505.09605](http://arxiv.org/abs/2505.09605)|null|
+|**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602](http://arxiv.org/abs/2505.09602)|null|
+|**2025-05-14**|**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**|Justin Yu et.al.|[2505.09601](http://arxiv.org/abs/2505.09601)|null|
+|**2025-05-14**|**Design of Experiments for Emulations: A Selective Review from a Modeling Perspective**|Xinwei Deng et.al.|[2505.09596](http://arxiv.org/abs/2505.09596)|null|
+|**2025-05-14**|**Online Isolation Forest**|Filippo Leveni et.al.|[2505.09593](http://arxiv.org/abs/2505.09593)|**[link](https://github.com/ineveloppilif/online-isolation-forest)**|
+|**2025-05-14**|**On-surface Synthesis of a Ferromagnetic Molecular Spin Trimer**|Alessio Vegliante et.al.|[2505.09587](http://arxiv.org/abs/2505.09587)|null|
+|**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571](http://arxiv.org/abs/2505.09571)|null|
+|**2025-05-14**|**Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations**|Maik Dannecker et.al.|[2505.09565](http://arxiv.org/abs/2505.09565)|null|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**UKElectionNarratives: A Dataset of Misleading Narratives Surrounding Recent UK General Elections**|Fatima Haouari et.al.|[2505.05459](http://arxiv.org/abs/2505.05459)|null|
 |**2025-05-08**|**A Study on Improvement of Image Quality in Quantum Polarized Microscopy using an Entangled-Photon Source**|Mousume Samad et.al.|[2505.05457](http://arxiv.org/abs/2505.05457)|null|
@@ -4697,12 +4707,22 @@
 |**2025-04-24**|**Unsupervised EEG-based decoding of absolute auditory attention with canonical correlation analysis**|Nicolas Heintz et.al.|[2504.17724](http://arxiv.org/abs/2504.17724)|null|
 |**2025-04-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al.|[2504.17721](http://arxiv.org/abs/2504.17721)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## LLM Disease Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
+|**2025-05-14**|**Adversarial Suffix Filtering: a Defense Pipeline for LLMs**|David Khachaturov et.al.|[2505.09602](http://arxiv.org/abs/2505.09602)|null|
+|**2025-05-14**|**How Hungry is AI? Benchmarking Energy, Water, and Carbon Footprint of LLM Inference**|Nidhal Jegham et.al.|[2505.09598](http://arxiv.org/abs/2505.09598)|null|
+|**2025-05-14**|**WorldView-Bench: A Benchmark for Evaluating Global Cultural Perspectives in Large Language Models**|Abdullah Mushtaq et.al.|[2505.09595](http://arxiv.org/abs/2505.09595)|null|
+|**2025-05-15**|**Beyond Likes: How Normative Feedback Complements Engagement Signals on Social Media**|Yuchen Wu et.al.|[2505.09583](http://arxiv.org/abs/2505.09583)|null|
+|**2025-05-14**|**Ethics and Persuasion in Reinforcement Learning from Human Feedback: A Procedural Rhetorical Approach**|Shannon Lodoen et.al.|[2505.09576](http://arxiv.org/abs/2505.09576)|null|
+|**2025-05-14**|**MIGRATION-BENCH: Repository-Level Code Migration Benchmark from Java 8**|Linbo Liu et.al.|[2505.09569](http://arxiv.org/abs/2505.09569)|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
+|**2025-05-14**|**WavReward: Spoken Dialogue Models With Generalist Reward Evaluators**|Shengpeng Ji et.al.|[2505.09558](http://arxiv.org/abs/2505.09558)|**[link](https://github.com/jishengpeng/wavreward)**|
+|**2025-05-14**|**Artificial intelligence-enabled precision medicine for inflammatory skin diseases**|Alice Tang et.al.|[2505.09527](http://arxiv.org/abs/2505.09527)|null|
 |**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|
 |**2025-05-08**|**StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant**|Haibo Wang et.al.|[2505.05467](http://arxiv.org/abs/2505.05467)|null|
 |**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/abs/2505.05465)|null|
@@ -4744,12 +4764,22 @@
 |**2025-04-24**|**Fault Diagnosis in New Wind Turbines using Knowledge from Existing Turbines by Generative Domain Adaptation**|Stefan Jonas et.al.|[2504.17709](http://arxiv.org/abs/2504.17709)|null|
 |**2025-04-24**|**Ensemble Bayesian Inference: Leveraging Small Language Models to Achieve LLM-level Accuracy in Profile Matching Tasks**|Haru-Tada Sato et.al.|[2504.17685](http://arxiv.org/abs/2504.17685)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Multimodal Disease Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
+|**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591](http://arxiv.org/abs/2505.09591)|null|
+|**2025-05-14**|**Analytical and Scale-Free Phase-Field Studies of $α$ to $ω$ Phase Transformation in Single Crystal Zirconium under Nonhydrostatic Loadings**|Raghunandan Pratoori et.al.|[2505.09570](http://arxiv.org/abs/2505.09570)|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
+|**2025-05-14**|**Effects of Random Birefringence in Multimode Fibers on Nonlinear Ultrashort Pulse Propagation**|Chaoyang Geng et.al.|[2505.09557](http://arxiv.org/abs/2505.09557)|null|
+|**2025-05-14**|**GlobalMood: A cross-cultural benchmark for music emotion recognition**|Harin Lee et.al.|[2505.09539](http://arxiv.org/abs/2505.09539)|null|
+|**2025-05-14**|**Multimodal transformers with elemental priors for phase classification of X-ray diffraction spectra**|Kangyu Ji et.al.|[2505.09536](http://arxiv.org/abs/2505.09536)|null|
+|**2025-05-15**|**Einstein, Free Creations, and His Worldly Cloister**|Galina Weinstein et.al.|[2505.09530](http://arxiv.org/abs/2505.09530)|null|
+|**2025-05-14**|**Artificial intelligence-enabled precision medicine for inflammatory skin diseases**|Alice Tang et.al.|[2505.09527](http://arxiv.org/abs/2505.09527)|null|
+|**2025-05-14**|**Shuffle Products, Degenerate Affine Hecke Algebras, and Quantum Toda Lattice**|Artem Kalmykov et.al.|[2505.09520](http://arxiv.org/abs/2505.09520)|null|
 |**2025-05-08**|**Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation**|Chao Liao et.al.|[2505.05472](http://arxiv.org/abs/2505.05472)|null|
 |**2025-05-08**|**Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging**|Shiqi Chen et.al.|[2505.05464](http://arxiv.org/abs/2505.05464)|**[link](https://github.com/shiqichen17/vlm_merging)**|
 |**2025-05-08**|**Representation Stability for Marked Graph Complexes**|Enoch Fedah et.al.|[2505.05461](http://arxiv.org/abs/2505.05461)|null|
@@ -4791,12 +4821,22 @@
 |**2025-04-24**|**Quadratic Interest Network for Multimodal Click-Through Rate Prediction**|Honghao Li et.al.|[2504.17699](http://arxiv.org/abs/2504.17699)|**[link](https://github.com/salmon1802/qin)**|
 |**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Medical Image Restoration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Robust Representation and Estimation of Barycenters and Modes of Probability Measures on Metric Spaces**|Washington Mio et.al.|[2505.09609](http://arxiv.org/abs/2505.09609)|null|
+|**2025-05-14**|**LightLab: Controlling Light Sources in Images with Diffusion Models**|Nadav Magar et.al.|[2505.09608](http://arxiv.org/abs/2505.09608)|null|
+|**2025-05-14**|**The Niche Connectivity Paradox: Multichrome Contagions Overcome Vaccine Hesitancy more effectively than Monochromacy**|Ho-Chun Herbert Chang et.al.|[2505.09605](http://arxiv.org/abs/2505.09605)|null|
+|**2025-05-14**|**VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**|Chaofan Zhang et.al.|[2505.09577](http://arxiv.org/abs/2505.09577)|null|
+|**2025-05-14**|**Don't Forget your Inverse DDIM for Image Editing**|Guillermo Gomez-Trenado et.al.|[2505.09571](http://arxiv.org/abs/2505.09571)|null|
+|**2025-05-14**|**BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset**|Jiuhai Chen et.al.|[2505.09568](http://arxiv.org/abs/2505.09568)|**[link](https://github.com/jiuhaichen/blip3o)**|
+|**2025-05-14**|**Using Foundation Models as Pseudo-Label Generators for Pre-Clinical 4D Cardiac CT Segmentation**|Anne-Marie Rickmann et.al.|[2505.09564](http://arxiv.org/abs/2505.09564)|null|
+|**2025-05-14**|**Learning Long-Context Diffusion Policies via Past-Token Prediction**|Marcel Torne et.al.|[2505.09561](http://arxiv.org/abs/2505.09561)|null|
+|**2025-05-14**|**Conformal Bounds on Full-Reference Image Quality for Imaging Inverse Problems**|Jeffrey Wen et.al.|[2505.09528](http://arxiv.org/abs/2505.09528)|**[link](https://github.com/jwen307/quality_uq)**|
+|**2025-05-14**|**Spec2VolCAMU-Net: A Spectrogram-to-Volume Model for EEG-to-fMRI Reconstruction based on Multi-directional Time-Frequency Convolutional Attention Encoder and Vision-Mamba U-Net**|Dongyi He et.al.|[2505.09521](http://arxiv.org/abs/2505.09521)|**[link](https://github.com/hdy6438/spec2volcamu-net)**|
 |**2025-05-08**|**SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**|Yonwoo Choi et.al.|[2505.05475](http://arxiv.org/abs/2505.05475)|**[link](https://github.com/yc4ny/SVAD)**|
 |**2025-05-08**|**3D Scene Generation: A Survey**|Beichen Wen et.al.|[2505.05474](http://arxiv.org/abs/2505.05474)|**[link](https://github.com/hzxie/awesome-3d-scene-generation)**|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
@@ -4838,7 +4878,7 @@
 |**2025-04-24**|**Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning**|Nikola Janjušević et.al.|[2504.17698](http://arxiv.org/abs/2504.17698)|null|
 |**2025-04-24**|**Time-reversed Stochastic Inflation**|Baptiste Blachier et.al.|[2504.17680](http://arxiv.org/abs/2504.17680)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
